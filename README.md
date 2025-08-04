@@ -2,4 +2,4 @@
 
 Ye mera To-Do List app hai jisme login/signup, due date alerts, etc. features hain.
 
-**Live demo:** [Click here to try the app](https://amtodo.netlify.app)
+**Live demo:** [Click here to try the app](https://amtodoapp.netlify.app)
